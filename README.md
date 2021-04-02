@@ -1,5 +1,5 @@
 # Graphic.h For Vs Code
-How to set up graphic.h in Visual Studio Code || Cara mensetting graphic.h di Visual Studio Code\n
+How to set up graphic.h in Visual Studio Code || Cara mensetting graphic.h di Visual Studio Code
 Download library and TDM-GCC in here
 https://drive.google.com/drive/folders/1avSe4Jh4Y7RkY0tFuqpp1AlI2ywoQ3BN?usp=sharing
 
