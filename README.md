@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1avSe4Jh4Y7RkY0tFuqpp1AlI2ywoQ3BN?usp=sha
 How to Install || Cara instalasi
 1. Install TDM-GCC on gdrive, you can choose gcc version 32 or mix until it's finished || Install TDM-GCC yang ada di gdrive bisa pilih gcc yang versi 32 atau campuran sampai selesai.
 2. Copy and paste 'graphics.h' and 'winbgim.h' into your tdm-gcc 32bit include folder (example: C:/TDM-GCC-32/include) || Salin dan tempel 'grafik.h' dan 'winbgim.h' ke dalam folder tdm-gcc 32bit include (contoh: C: / TDM-GCC-32 / include).
-3. Download the Graphic.hForVsCode file which contains `c_cpp_properties.json` || Download file Graphic.hForVsCode yang berisi `c_cpp_properties.json`
+3. Download the Graphic.h_VsCode file which contains `c_cpp_properties.json` || Download file Graphic.hForVsCode yang berisi `c_cpp_properties.json`
 4. Create a .vscode file in your workspace or your folder and copy paste `c_cpp_properties.json`  || Buat file .vscode di workspace anda atau folder anda dan sopy paste `c_cpp_properties.json`
 5. Don't forget to change a correct directories on `c_cpp_properties.json` depend on your tdm-gcc installation directories || Jangan lupa untuk mengubah direktori yang benar di `c_cpp_properties.json` tergantung pada direktori instalasi tdm-gcc anda.
 
