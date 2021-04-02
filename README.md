@@ -1,6 +1,6 @@
 # Graphic.h For Vs Code
-How to set up graphic.h in Visual Studio Code || Cara mensetting graphic.h di Visual Studio Code
-Download library and TDM-GCC in here
+How to set up graphic.h in Visual Studio Code || Cara mensetting graphic.h di Visual Studio Code\
+Download library and TDM-GCC in here\
 https://drive.google.com/drive/folders/1avSe4Jh4Y7RkY0tFuqpp1AlI2ywoQ3BN?usp=sharing
 
 # Installation
@@ -11,8 +11,8 @@ How to Install || Cara instalasi
 4. Don't forget to change a correct directories on 'c_cpp_properties.json' depend on your tdm-gcc installation directories || Jangan lupa untuk mengubah direktori yang benar di 'c_cpp_properties.json' tergantung pada direktori instalasi tdm-gcc anda.
 
 # How to use
-Compile and Linking your .cpp file with ||  Kompilasi dan tautkan file .cpp Anda dengan :
-g++ main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+Compile and Linking your .cpp file with ||  Kompilasi dan tautkan file .cpp Anda dengan :\     
+  g++ main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
 
 Above, change main.cpp according to the name of the file you created then save and compile / run by copying and pasting the above command with the file created into the terminal
 ||
