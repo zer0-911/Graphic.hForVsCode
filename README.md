@@ -12,7 +12,7 @@ How to Install || Cara instalasi
 
 # How to use
 Compile and Linking your .cpp file with ||  Kompilasi dan tautkan file .cpp Anda dengan :     
-  'g++ main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32'
+  "g++ main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32"
 
 Above, change main.cpp according to the name of the file you created then save and compile / run by copying and pasting the above command with the file created into the terminal
 ||
@@ -23,6 +23,6 @@ After running / compiling it, there will be a file called 'a.exe' run outside of
 ||
 Setelah di run/compile maka akan ada file bernama 'a.exe'jalankan diluar visual studio code jika anda tidak mempunyai ekstensi tambahan untuk menjalankan format .exe
 
-'a.exe'
+"a.exe"
 
 Thankssss
