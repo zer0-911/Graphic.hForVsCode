@@ -1,4 +1,4 @@
-# Graphic.h For Vs Code
+# Graphics.h For Vs Code
 How to set up graphic.h in Visual Studio Code || Cara mensetting graphic.h di Visual Studio Code\
 
 Download library and TDM-GCC in here\
